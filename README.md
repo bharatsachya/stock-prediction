@@ -1,4 +1,4 @@
-# Project Name
+# Wise Trader
 
 A brief description of your project.
 
